@@ -9,6 +9,8 @@ Are you ready for the ultimate cookie-clicking adventure? Step into the world of
 Your goal is simple - click as much as you can on those large, delicious cookies to increase your cookies per second production. But that's not all! With the help of Selenium, 
 our bot will automatically purchase upgrades every 10 seconds, such as magical grandmas 👵 or powerful bakeries 🧁, to boost your production capacity. Your clicks will create an army of cookie robots!
 
+![Screenshot](Screenshot.png)
+
 Warning ⚠️⚠️
 However, proceed with caution! This game may be more addictive than eating cookies themselves! If you're hungry, it's better to eat a real cookie first before starting your clicking spree
 
